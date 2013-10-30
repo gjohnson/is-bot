@@ -1,0 +1,22 @@
+{
+  "name": "is-bot",
+  "version": "0.0.1",
+  "description": "Determines if a user-agent is a bot/spider/crawler.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gjohnson/is-bot"
+  },
+  "keywords": [
+    "is-bot",
+    "bot-regexp"
+  ],
+  "author": "Garrett Johnson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gjohnson/is-bot/issues"
+  }
+}
