@@ -8,7 +8,7 @@
 
 var pattern = new RegExp('bot|crawl|spider|borg|yahoo|slurp|archiver|netresearch|lycos|scooter\
 |altavista|teoma|oegp|charlotte|http client|htdig|ichiro|mogimogi|larbin|pompos|scrubby\
-|searchsight|semanticdiscovery|silk|snappy|speedy|voila|vortex|voyager|zao|zeal|dataparksearch\
+|searchsight|semanticdiscovery|snappy|speedy|voila|vortex|voyager|zao|zeal|dataparksearch\
 |findlinks|yottaamonitor|browsermob|httpmonitor|bingpreview|pagepeeker|webthumb|url2png|zooshot\
 |gomeza|google sketchup|read later|pingdom|facebook|rackspace|scan|link|ezine|preview\
 |dig|tarantula|urllib|jakarta|wget|rget|monitor|libwww|moozilla|seer|spice|snoopy|feedfetcher\
