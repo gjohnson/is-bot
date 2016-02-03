@@ -13,7 +13,8 @@ var pattern = new RegExp('bot|crawl|spider|borg|yahoo|slurp|archiver|netresearch
 |gomeza|google sketchup|read later|pingdom|facebook|rackspace|scan|link|ezine|preview\
 |dig|tarantula|urllib|jakarta|wget|rget|monitor|libwww|moozilla|seer|spice|snoopy|feedfetcher\
 |google wireless transcoder|curl|wordpress|java|netfront|archive|xenu|feed|appmanager|covario\
-|perl|host|lwp|page speed|ptst|digext|nutch|sleuth|yottaamonitor', 'i');
+|perl|host|lwp|page speed|ptst|digext|nutch|sleuth|yottaamonitor|pinterest|whatsapp|w3c_validator\
+|embedly|quora|outbrain|developers.google.com/+/web/snippet|vkshare|flipboard', 'i');
 
 /**
  * Determines if `useragent` is a bot according to `pattern`.
